@@ -10,7 +10,6 @@ import { Modal } from './Modal/Modal';
 import { AppWrapper } from './App.styled';
 import { scrollToBottom } from 'utils/scroll';
 
-
 export class App extends Component {
   state = {
     cards: [],
